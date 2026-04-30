@@ -7,7 +7,8 @@ This repository contains the materials and supporting documents associated with 
 ## Repository Contents
 
 * **Survey Instrument**: Full questionnaire used in the study
-* **Replication Resources**: Artifacts necessary to understand and replicate the study setup
+* **survey_raw_responses_and_coding.xlsx**: Contains the anonymized raw survey responses, independent coding performed by the researchers, and the consolidated coding used to answer the research questions.
+* **Replication Resources**: Contains the codebook, categorization structure, and classification analysis used to organize and interpret the qualitative findings reported in the paper.
 
 ## Language Notice
 
