@@ -1,0 +1,19 @@
+"comparison","outcome","medians_IQR","p_value","p_holm","effect_size","effect_type","magnitude"
+"Seniority","satisfaction_benefits","E: 3.75 [3.25--4.06]; M: 3.88 [3.25--4.25]; S: 3.25 [2.69--3.56]",0.00555622550596992,0.0500060295537293,0.101032199206895,"epsilon_squared",NA
+"Seniority","satisfaction_tensions","E: 2.70 [2.35--3.25]; M: 2.80 [2.20--3.40]; S: 2.60 [2.20--3.40]",0.873100769250398,1,-0.0208264023829084,"epsilon_squared",NA
+"Seniority","performance_benefits","E: 3.67 [3.25--4.33]; M: 3.83 [3.00--4.33]; S: 3.67 [3.00--4.00]",0.607849825623333,1,-0.0121005439794005,"epsilon_squared",NA
+"Seniority","performance_tensions","E: 3.50 [3.15--4.05]; M: 3.40 [3.20--4.00]; S: 3.40 [3.15--3.80]",0.653721878036549,1,-0.013853655881544,"epsilon_squared",NA
+"Seniority","activity_frequency","E: 3.56 [3.22--4.00]; M: 3.78 [3.06--4.31]; S: 3.56 [3.19--3.92]",0.608006389425658,1,-0.012106749683195,"epsilon_squared",NA
+"Seniority","communication_benefits","E: 3.92 [3.62--4.50]; M: 4.25 [3.50--4.46]; S: 3.50 [2.79--4.00]",0.0427217428682347,0.256330457209408,0.051880657534578,"epsilon_squared",NA
+"Seniority","communication_tensions","E: 3.00 [2.50--3.62]; M: 3.00 [2.50--3.88]; S: 3.50 [3.00--4.00]",0.0727755048550017,0.363877524275009,0.0390452012571272,"epsilon_squared",NA
+"Seniority","efficiency_benefits","E: 4.00 [3.79--4.61]; M: 4.14 [3.61--4.43]; S: 3.57 [3.00--4.00]",0.00933076192206513,0.074646095376521,0.0885406892478218,"epsilon_squared",NA
+"Seniority","efficiency_tensions","E: 2.75 [2.38--3.50]; M: 3.00 [2.50--3.88]; S: 2.50 [2.00--3.00]",0.0191458887967124,0.134021221576987,0.071220898087909,"epsilon_squared",NA
+"Usage intensity","satisfaction_benefits","I: 3.62 [3.25--4.25]; O: 3.25 [2.44--3.75]",0.0159909599599667,0.0801344865079221,0.304444444444444,"cliffs_delta","small"
+"Usage intensity","satisfaction_tensions","I: 2.60 [2.20--3.40]; O: 2.80 [2.20--3.40]",0.625952116119695,1,-0.0622222222222222,"cliffs_delta","negligible"
+"Usage intensity","performance_benefits","I: 3.83 [3.08--4.33]; O: 3.33 [2.67--4.00]",0.0133557477513204,0.0801344865079221,0.312222222222222,"cliffs_delta","small"
+"Usage intensity","performance_tensions","I: 3.20 [3.00--3.95]; O: 3.70 [3.40--4.00]",0.0222868795283118,0.0891475181132473,-0.288888888888889,"cliffs_delta","small"
+"Usage intensity","activity_frequency","I: 3.89 [3.56--4.44]; O: 3.17 [2.75--3.56]",7.95267816915436e-07,7.15741035223892e-06,0.626111111111111,"cliffs_delta","large"
+"Usage intensity","communication_benefits","I: 4.17 [3.54--4.50]; O: 3.50 [2.58--3.71]",7.78165200128003e-05,0.000622532160102403,0.500555555555556,"cliffs_delta","large"
+"Usage intensity","communication_tensions","I: 3.00 [2.50--4.00]; O: 3.00 [2.50--4.00]",0.886571421532835,1,-0.0183333333333333,"cliffs_delta","negligible"
+"Usage intensity","efficiency_benefits","I: 4.07 [3.57--4.43]; O: 3.64 [2.57--4.04]",0.00200535681867154,0.0140374977307008,0.391666666666667,"cliffs_delta","medium"
+"Usage intensity","efficiency_tensions","I: 2.75 [2.00--3.00]; O: 3.00 [2.00--3.50]",0.397296941916633,1,-0.106666666666667,"cliffs_delta","negligible"
