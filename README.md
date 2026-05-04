@@ -1,5 +1,3 @@
-# survey-instrument-replication-package
-
 # Replication Package
 
 This repository contains the replication package associated with the survey study reported in the accompanying manuscript. It provides the research materials, sanitized data, coding artifacts, and statistical analysis outputs used to support the findings presented in the paper.
@@ -26,7 +24,10 @@ A persistent link to the accepted/final version of the paper will be added upon 
 │   ├── usage_results.csv
 │   ├── dunn_posthoc_all_results.csv
 │   ├── dunn_posthoc_significant_results.csv
-│   └── exploratory_stratified_analysis.csv
+│   ├── exploratory_stratified_analysis.csv
+│   └── exploratory_stratified_comparisons.png
+├── figures
+│   └── comparison_related_work.png
 ```
 
 ---
@@ -66,6 +67,18 @@ The folder **statistical_analysis/** contains the quantitative datasets and stat
 
 * **exploratory_stratified_analysis.csv**
   Results of additional exploratory subgroup and stratified analyses conducted during the study.
+
+* **exploratory_stratified_comparisons.png**
+  Visual representation of the exploratory stratified comparisons of composite scores derived from SPACE items, summarizing subgroup differences identified in the quantitative analysis.
+
+---
+
+### Figures and Comparative Analysis
+
+The folder **figures/** contains visual artifacts supporting the comparative analysis between our findings and prior related work.
+
+* **comparison_related_work.png**
+  Comparative synthesis of perceived benefits and concerns related to GenAI adoption across our study and prior related work.
 
 ---
 
