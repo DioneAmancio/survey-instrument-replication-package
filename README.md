@@ -28,12 +28,23 @@ A persistent link to the accepted/final version of the paper will be added upon 
 
 The folder **statistical_analysis/** contains the quantitative datasets and statistical outputs used in the inferential and exploratory analyses reported in the manuscript.
 
-Expected contents include:
+* **my_data.csv**
+  Cleaned quantitative dataset used as input for the statistical analyses.
 
-* Cleaned datasets used for statistical analyses
-* Group comparison results
-* Post-hoc analysis outputs
-* Exploratory subgroup analyses
+* **seniority_results.csv**
+  Statistical comparison results for analyses stratified by participant seniority level.
+
+* **usage_results.csv**
+  Statistical comparison results for analyses stratified by GenAI usage frequency.
+
+* **dunn_posthoc_all_results.csv**
+  Complete results of Dunn’s post-hoc pairwise comparisons performed after omnibus significance testing.
+
+* **dunn_posthoc_significant_results.csv**
+  Filtered subset of statistically significant Dunn’s post-hoc comparisons.
+
+* **exploratory_stratified_analysis.csv**
+  Results of additional exploratory subgroup and stratified analyses conducted during the study.
 
 ---
 
