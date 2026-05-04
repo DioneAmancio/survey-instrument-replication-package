@@ -14,7 +14,28 @@ A persistent link to the accepted/final version of the paper will be added upon 
 
 ## Repository Structure
 
+```text
+├── LICENSE
+├── README.md
+├── survey_data
+│   ├── survey_raw_responses_and_coding.xlsx
+│   └── codebook_category_analysis.xlsx
+├── statistical_analysis
+│   ├── my_data.csv
+│   ├── seniority_results.csv
+│   ├── usage_results.csv
+│   ├── dunn_posthoc_all_results.csv
+│   ├── dunn_posthoc_significant_results.csv
+│   └── exploratory_stratified_analysis.csv
+```
+
+---
+
+## Artifacts Description
+
 ### Survey Data and Qualitative Analysis
+
+The folder **survey_data/** contains the survey instrument, sanitized participant responses, and qualitative coding artifacts used in the study.
 
 * **survey_raw_responses_and_coding.xlsx**
   Contains the complete survey instrument and the corresponding sanitized participant responses. Sensitive or identifying information has been removed to preserve participant anonymity and confidentiality.
@@ -48,11 +69,11 @@ The folder **statistical_analysis/** contains the quantitative datasets and stat
 
 ---
 
-## Data Anonymization and Ethical Considerations
+## Ethical and Legal Statement
 
-All participant responses were sanitized prior to publication in this repository.
+All participant data shared in this repository were anonymized and sanitized prior to publication.
 
-Sensitive, identifying, or potentially traceable information was removed or anonymized to ensure participant privacy and comply with ethical research practices.
+No identifying, sensitive, or traceable participant information is included.
 
 ---
 
@@ -76,9 +97,3 @@ This replication package is provided to:
 ## License
 
 This repository is distributed under the terms specified in the **LICENSE** file included in this package.
-
----
-
-## Contact
-
-For questions regarding the replication package or requests for clarification, please contact the corresponding authors of the associated manuscript.
