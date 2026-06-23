@@ -1,0 +1,11 @@
+FILENAME, recal2_consolidado_TUDO.csv
+filesize, 2673 bytes
+n columns, 2
+n variables, 1
+n coders per var, 2
+ 
+ ,Percent Agreement,Scott's Pi,Cohen's Kappa,Krippendorff's Alpha,N Agreements,N Disagreements,N Cases,N Decisions
+Variable 1 (cols 1 & 2),81.560283687943,0.81141112990992,0.81147901608434,0.81163404819608,345,78,423,846
+ 
+* * *
+ 
